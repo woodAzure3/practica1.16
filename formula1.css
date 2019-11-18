@@ -1,0 +1,19 @@
+#secondTable{
+
+background-color: rgb(220,220,220);
+
+}
+table{
+
+	padding:2%;
+}
+button{
+
+width:300px;
+height:100px;
+background-color: orange;
+color: white;
+margin-left: 60%;
+font-size:300%;
+
+}
